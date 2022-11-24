@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main menu</title>
+</head>
+
+<!--Title--> 
+
+<head><style>
+    body {background-color: rgb(249, 248, 246);}
+    h1   {color: rgb(124, 153, 130);}
+    h1   {font-family:monospace ;}
+    h1   {font-size:400% ;}
+    </style></head>
+
+<body>
+    <h1>Hasbulla Bean</h1>
+</body>
+</html>
