@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    height: 100vh;
+
+}
+.navbar-style
+{
+    box-shadow: 0 5px 10px #efefef;
+}
+.logo
+{
+    height: 69px;
+    padding: 2px 10px;
+
+}
+.icon-bar
+{
+    background: darkorange;
+}
+
+
+
+/*
+{
+background-color: #fae9d;
+
+h1 {
+    color: #788c6b;
+    font-family:monospace ;
+    font-size:400% ;
+   }
+*/
