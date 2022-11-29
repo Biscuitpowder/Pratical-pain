@@ -10,6 +10,7 @@
 .navbar-style
 {
     box-shadow: 0 5px 10px #efefef;
+    text-transform: uppercase;
 }
 .logo
 {
@@ -22,12 +23,14 @@
     background: darkorange;
 }
 
-
+li a
+{
+    color: black;
+}
 
 /*
 {
 background-color: #fae9d;
-
 h1 {
     color: #788c6b;
     font-family:monospace ;
